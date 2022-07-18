@@ -1,0 +1,15 @@
+C:\Workspace\ConstruDelas-Back-end-dotnet\introducao-ao-dotnet-ex1\bin\Debug\net6.0\introducao-ao-dotnet-ex1.exe
+C:\Workspace\ConstruDelas-Back-end-dotnet\introducao-ao-dotnet-ex1\bin\Debug\net6.0\introducao-ao-dotnet-ex1.deps.json
+C:\Workspace\ConstruDelas-Back-end-dotnet\introducao-ao-dotnet-ex1\bin\Debug\net6.0\introducao-ao-dotnet-ex1.runtimeconfig.json
+C:\Workspace\ConstruDelas-Back-end-dotnet\introducao-ao-dotnet-ex1\bin\Debug\net6.0\introducao-ao-dotnet-ex1.dll
+C:\Workspace\ConstruDelas-Back-end-dotnet\introducao-ao-dotnet-ex1\bin\Debug\net6.0\introducao-ao-dotnet-ex1.pdb
+C:\Workspace\ConstruDelas-Back-end-dotnet\introducao-ao-dotnet-ex1\obj\Debug\net6.0\introducao-ao-dotnet-ex1.csproj.AssemblyReference.cache
+C:\Workspace\ConstruDelas-Back-end-dotnet\introducao-ao-dotnet-ex1\obj\Debug\net6.0\introducao-ao-dotnet-ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\ConstruDelas-Back-end-dotnet\introducao-ao-dotnet-ex1\obj\Debug\net6.0\introducao-ao-dotnet-ex1.AssemblyInfoInputs.cache
+C:\Workspace\ConstruDelas-Back-end-dotnet\introducao-ao-dotnet-ex1\obj\Debug\net6.0\introducao-ao-dotnet-ex1.AssemblyInfo.cs
+C:\Workspace\ConstruDelas-Back-end-dotnet\introducao-ao-dotnet-ex1\obj\Debug\net6.0\introducao-ao-dotnet-ex1.csproj.CoreCompileInputs.cache
+C:\Workspace\ConstruDelas-Back-end-dotnet\introducao-ao-dotnet-ex1\obj\Debug\net6.0\introducao-ao-dotnet-ex1.dll
+C:\Workspace\ConstruDelas-Back-end-dotnet\introducao-ao-dotnet-ex1\obj\Debug\net6.0\refint\introducao-ao-dotnet-ex1.dll
+C:\Workspace\ConstruDelas-Back-end-dotnet\introducao-ao-dotnet-ex1\obj\Debug\net6.0\introducao-ao-dotnet-ex1.pdb
+C:\Workspace\ConstruDelas-Back-end-dotnet\introducao-ao-dotnet-ex1\obj\Debug\net6.0\introducao-ao-dotnet-ex1.genruntimeconfig.cache
+C:\Workspace\ConstruDelas-Back-end-dotnet\introducao-ao-dotnet-ex1\obj\Debug\net6.0\ref\introducao-ao-dotnet-ex1.dll

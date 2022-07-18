@@ -1,0 +1,15 @@
+C:\Workspace\ConstruDelas-Back-end-dotnet\introducao-ao-dotnet-ex3-conversao\conversoes-ex\obj\Debug\net6.0\conversoes-ex.csproj.AssemblyReference.cache
+C:\Workspace\ConstruDelas-Back-end-dotnet\introducao-ao-dotnet-ex3-conversao\conversoes-ex\obj\Debug\net6.0\conversoes-ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\ConstruDelas-Back-end-dotnet\introducao-ao-dotnet-ex3-conversao\conversoes-ex\obj\Debug\net6.0\conversoes-ex.AssemblyInfoInputs.cache
+C:\Workspace\ConstruDelas-Back-end-dotnet\introducao-ao-dotnet-ex3-conversao\conversoes-ex\obj\Debug\net6.0\conversoes-ex.AssemblyInfo.cs
+C:\Workspace\ConstruDelas-Back-end-dotnet\introducao-ao-dotnet-ex3-conversao\conversoes-ex\obj\Debug\net6.0\conversoes-ex.csproj.CoreCompileInputs.cache
+C:\Workspace\ConstruDelas-Back-end-dotnet\introducao-ao-dotnet-ex3-conversao\conversoes-ex\bin\Debug\net6.0\conversoes-ex.exe
+C:\Workspace\ConstruDelas-Back-end-dotnet\introducao-ao-dotnet-ex3-conversao\conversoes-ex\bin\Debug\net6.0\conversoes-ex.deps.json
+C:\Workspace\ConstruDelas-Back-end-dotnet\introducao-ao-dotnet-ex3-conversao\conversoes-ex\bin\Debug\net6.0\conversoes-ex.runtimeconfig.json
+C:\Workspace\ConstruDelas-Back-end-dotnet\introducao-ao-dotnet-ex3-conversao\conversoes-ex\bin\Debug\net6.0\conversoes-ex.dll
+C:\Workspace\ConstruDelas-Back-end-dotnet\introducao-ao-dotnet-ex3-conversao\conversoes-ex\bin\Debug\net6.0\conversoes-ex.pdb
+C:\Workspace\ConstruDelas-Back-end-dotnet\introducao-ao-dotnet-ex3-conversao\conversoes-ex\obj\Debug\net6.0\conversoes-ex.dll
+C:\Workspace\ConstruDelas-Back-end-dotnet\introducao-ao-dotnet-ex3-conversao\conversoes-ex\obj\Debug\net6.0\refint\conversoes-ex.dll
+C:\Workspace\ConstruDelas-Back-end-dotnet\introducao-ao-dotnet-ex3-conversao\conversoes-ex\obj\Debug\net6.0\conversoes-ex.pdb
+C:\Workspace\ConstruDelas-Back-end-dotnet\introducao-ao-dotnet-ex3-conversao\conversoes-ex\obj\Debug\net6.0\conversoes-ex.genruntimeconfig.cache
+C:\Workspace\ConstruDelas-Back-end-dotnet\introducao-ao-dotnet-ex3-conversao\conversoes-ex\obj\Debug\net6.0\ref\conversoes-ex.dll
